@@ -1,0 +1,35 @@
+{
+  "name": "gcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aws-test.js",
+  "scripts": {
+    "start": "node aws-test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "aws-sdk": "^2.618.0",
+    "bcrypt": "^3.0.1",
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "fs": "0.0.1-security",
+    "md5": "^2.2.1",
+    "mocha": "^5.2.0",
+    "mongoose": "^5.3.4",
+    "multer": "^1.4.0",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7",
+    "request": "^2.81.0",
+    "should": "^13.2.3",
+    "supertest": "^3.3.0",
+    "uuid": "^3.3.2"
+  }
+}
